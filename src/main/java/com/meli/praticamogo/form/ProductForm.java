@@ -14,7 +14,6 @@ public class ProductForm {
     @NotBlank
     private String name;
     @NotNull
-    @NotBlank
     private BigDecimal price;
     @NotNull
     @NotBlank
